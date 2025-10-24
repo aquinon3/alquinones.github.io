@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # aquinon3's Website
+  # Alejandra Quinones's Website
 
   Visit **[aquinon3.github.io/alquinones.github.io](https://aquinon3.github.io/alquinones.github.io)** 🚀
 
